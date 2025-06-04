@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Plugfam/Salifu-V6/new/main?filename=README.md">
-    <img alt="CypherX docs" height="350" src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg">
+    <img alt="Salifu v6 docs" height="350" src="https://files.catbox.moe/fqghc8.jpg">
   </a>
 </p>
     
