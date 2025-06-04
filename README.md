@@ -10,6 +10,9 @@
 </p>
 <p align="center">
 <a href="https://github.com/Plugfam/Salifu-V6/new/main?filename=README.md?"><img title="Author" src="https://img.shields.io/badge/Salifu-V6-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+  <button class="whatsapp-btn" onclick="window.open('https://wa.me/qr/5FQWSK7V25RVB1', '_Direct to my whatsapp Dm'); ('Contact me on Whatsapp')">
+    WhatsApp
+  </button>
 <p/>
 
 <p align="center">
